@@ -230,10 +230,4 @@ Below are the final outputs for some sample image editing examples:
 
 Look at the last output image, as you can see, the final outputs contains pretty visible artefacts in this case. Our model is not trained on any dataset to learn any shape or form of image statistics, the outputs of the generator solely depends on the single image, multiplied by the mask, so if the mask is covering too much portion of the image, then it becomes too hard for the model to make the best predictions for filling those missing pixels. So in conclusion, thinner/detailed the mask, better the outputs. 
 
-## [__Read Full Article__](https://brainbust.medium.com/watermark-removal-using-deep-image-priors-d37f87a9ca1)
-
-# Author - Rishik Mourya [[Linkedin](https://www.linkedin.com/in/brain-bust/)]
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=braindotai/Watermark-Removal-Pytorch&type=Timeline)](https://star-history.com/#braindotai/Watermark-Removal-Pytorch&Timeline)
+# Author - Jose Satine [[Linkedin](https://www.linkedin.com/in/jose-satine1711)]
